@@ -1,0 +1,11 @@
+main:
+  - title: "Papers"
+    url: /papers/
+  - title: "Abstracts"
+    url: /abstracts/
+  - title: "Travels"
+    url: /travels/
+  - title: "Blogs"
+    url: /blogs/
+  - title: "CV"
+    url: /cv/
