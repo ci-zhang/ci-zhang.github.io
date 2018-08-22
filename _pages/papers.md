@@ -10,7 +10,7 @@ layout: space
 ### 2018
 
 *  **Identifying Lagrangian coherent vortices in a mesoscale ocean model**  
-   *Ocean Modelling*, 130, 15-28 - [DOI][d1] / [PDF][p1]  
+   *Ocean Modelling*, 130, 15-28, [DOI][d1] / [PDF][p1]  
    N Tarshish, R Abernathey, C Zhang, CO Dufour, I Frenger, SM Griffies
 
    [d1]: https://doi.org/10.1016/j.ocemod.2018.07.001
