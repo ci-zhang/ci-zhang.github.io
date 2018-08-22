@@ -3,7 +3,7 @@ var addressPoints = [
     [         'Beijing, China',    39.90657,         116.3876],
     [        'Changsha, China',    28.19615,         112.9727],
     [       'Changxing, China',    31.0267,          119.9110],
-    [         'Chengdu, China',    30.6719,          104.0758],
+    [         'Chengdu, China',    30.65877,         104.06382],
     [       'Guangzhou, China',    23.11337,         113.2552],
     [        'Hangzhou, China',    30.2741,          120.1551],
     [        'Huangshi, China',    30.2000,          115.0388],
