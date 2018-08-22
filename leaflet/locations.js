@@ -32,7 +32,7 @@ var addressPoints = [
     [     'Minneapolis, USA',      44.9778,    360 -  93.2650],
     [         'Montauk, USA',      41.0359,    360 -  71.9145],
     [       'New Haven, USA',      41.3083,    360 -  72.9279],
-    [        'New York, USA',      40.6976637, 360 -  74.1197638],
+    [        'New York, USA',      40.7128,    360 -  74.0060],
     [       'Palisades, USA',      41.0113,    360 -  73.9133],
     [        'Pasadena, USA',      34.1478,    360 - 118.1445],
     [    'Philadelphia, USA',      39.9526,    360 -  75.1652],
