@@ -1,4 +1,5 @@
 var addressPoints = [
+    [         'Baoding, China',    38.8744851,       115.4624209],
     [          'Bazhou, China',    39.1259021,       116.3891973],
     [         'Beijing, China',    39.8957271,       116.4086287],
     [        'Changsha, China',    28.2280922,       112.9360735],
