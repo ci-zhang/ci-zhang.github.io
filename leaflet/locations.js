@@ -21,6 +21,8 @@ var addressPoints = [
     [           'Wuhan, China',    30.5934668,       114.3047641],
     [            'Wuxi, China',    31.4906416,       120.3089543],
     [         'Xinyang, China',    32.1468939,       114.0891005],
+    [          "Yan'an, China",    36.5854240,       109.4874463],
+    [        'Yanchuan, China',    36.8781170,       110.1913253],
     [        'Yongqing, China',    39.3217981,       116.4968393],
     [        'Yongshan, China',    28.2291257,       103.6358863],
     [        'Zhuozhou, China',    39.4851953,       115.9721762],
