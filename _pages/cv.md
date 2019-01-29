@@ -6,15 +6,15 @@ layout: space
 # Curriculum vitae
 
 ## Education
-*  _M.A. in Climate and Society_, Columbia University, New York, 2016
-*  _B.S. in Geology_, China University of Geosciences, Wuhan, 2015
+*  **M.A. in Climate and Society**, Columbia University, New York, 2016
+*  **B.S. in Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
-*  _Research Assistant_, 2018.03 - Present  
+*  **Research Assistant**, 2018.03 - Present  
    Department of Earth System Science, Tsinghua University
-*  _Research Intern_, 2015.10 - 2017.06  
+*  **Research Intern**, 2015.10 - 2017.06  
    Lamont-Doherty Earth Observatory, Columbia University
-*  _Visiting Student in Research_, 2014.09 - 2015.02  
+*  **Visiting Student in Research**, 2014.09 - 2015.02  
    Department of Geology and Geophysics, Yale University
 
 ## Interests
