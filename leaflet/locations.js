@@ -27,6 +27,7 @@ var addressPoints = [
     [        'Yongqing, China',    39.3217981,       116.4968393],
     [        'Yongshan, China',    28.2291257,       103.6358863],
     [        'Zhuozhou, China',    39.4851953,       115.9721762],
+    [         'London,  UK',       51.5013673, 360 -   0.1440787],
     [  'Alexandria Bay, USA',      44.3359,    360 -  75.9177],
     [       'Bethlehem, USA',      40.6184708, 360 -  75.3802267],
     [         'Buffalo, USA',      42.8865868, 360 -  78.8815274],
