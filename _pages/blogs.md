@@ -7,10 +7,10 @@ layout: space
 
 ### 2019
 
-> Watch a Premier League match at Wembley Stadium. Come on you Spurs! 10/02
+> Watch the Premier League match Tottenham Hotspur vs Leicester City at Wembley Stadium. 10/2
 
 ### 2018
 
->  Learn how to take care of a plant (my first Teachers' Day gift). 12/09  
->  Attend Jiayuan's wedding and meet several old friends from college. 12/08  
->  Enjoy living and working on Tsinghua's campus in summertime. 26/07  
+>  Learn how to take care of a plant (my first Teachers' Day gift). 12/9  
+>  Attend Jiayuan's wedding and meet several old friends from college. 12/8  
+>  Enjoy living and working on Tsinghua's campus in summertime. 26/7  
