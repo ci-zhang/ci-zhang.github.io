@@ -7,7 +7,7 @@ layout: space
 
 ### 2019
 
-> Watch Tottenham Hotspur 3-1 Leicester City at Wembley Stadium. 10/2
+> Watch Tottenham Hotspur v Leicester City at Wembley Stadium. 10/2
 
 ### 2018
 
