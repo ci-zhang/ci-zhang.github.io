@@ -6,8 +6,8 @@ layout: space
 # Curriculum vitae
 
 ## Education
-*  **M.A. in Climate and Society**, Columbia University, New York, 2016
-*  **B.S. in Geology**, China University of Geosciences, Wuhan, 2015
+*  **M.A. Climate and Society**, Columbia University, New York, 2016
+*  **B.S. Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
 *  **Research Assistant**, 2018.03 - Present  
