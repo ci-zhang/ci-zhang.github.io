@@ -7,6 +7,12 @@ layout: space
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=oam2ZBkAAAAJ&hl=en)
 
+### 2019
+
+*  **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**
+   *Journal of Advances in Modeling Earth System*, to be submitted
+   C Zhang, R Abernathey, N Tarshish
+
 ### 2018
 
 *  **Identifying Lagrangian coherent vortices in a mesoscale ocean model**  
