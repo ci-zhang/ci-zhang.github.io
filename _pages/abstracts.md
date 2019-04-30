@@ -8,7 +8,7 @@ layout: space
 ### 2019
 
 *  **Regional climate modelling of the Central Asia: Consistencies and uncertainties of the driving GCM's bias correction**  
-   *International Conference on Regional Climate - CORDEX*, Beijing, China
+   *International Conference on Regional Climate - CORDEX*, Beijing, China  
    C Zhang, Y Yao, Y Luo
 
 ### 2018
