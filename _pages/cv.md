@@ -35,8 +35,8 @@ layout: space
 
 ## Publications
 *  **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
-   _Journal of Advances in Modeling Earth System_, to be submitted, 2019  
+   *Journal of Advances in Modeling Earth System*, to be submitted, 2019  
    C Zhang, R Abernathey, N Tarshish
 *  **Identifying Lagrangian coherent vortices in a mesoscale ocean model**  
-    _Ocean Modelling_, 130, 15-28, 2018  
+   *Ocean Modelling*, 130, 15-28, 2018  
    N Tarshish, R Abernathey, C Zhang, CO Dufour, I Frenger, SM Griffies
