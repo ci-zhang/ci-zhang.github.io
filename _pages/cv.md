@@ -19,9 +19,9 @@ layout: space
 
 ## Interests
 *  **Physical oceanography**  
-      Submesoscale and mesoscale ocean dynamics
+      Mesoscale and submesoscale ocean dynamics
 *  **Southern Ocean**  
-      Polar ocean-atmosphere-cryosphere interactions
+      Antarctic ocean-atmosphere-cryosphere interactions
 *  **Climate change**  
       Long-term regional climate change projections
 

@@ -5,6 +5,12 @@ layout: space
 ---
 # Conference abstracts
 
+### 2019
+
+*  **Regional climate modelling of the Central Asia: Consistencies and uncertainties of the driving GCM's bias correction**  
+   *International Conference on Regional Climate - CORDEX*, Beijing, China
+   C Zhang, Y Yao, Y Luo
+
 ### 2018
 
 *  **A global atlas of coherent Lagrangian vortices from satellite altimetry**  
