@@ -21,9 +21,9 @@ layout: space
 *  **Physical oceanography**  
       Mesoscale and submesoscale ocean dynamics
 *  **Southern Ocean**  
-      Antarctic ocean-atmosphere-cryosphere interactions
+      Antarctic ocean-cryosphere interactions
 *  **Climate change**  
-      Long-term regional climate change projections
+      Regional climate modeling of the Central Asia
 
 ## Skills
 *  **Numerical models**  
