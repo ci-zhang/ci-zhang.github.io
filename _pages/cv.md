@@ -38,7 +38,7 @@ layout: space
    *Journal of Advances in Modeling Earth System*, to be submitted, 2019  
    C Zhang, R Abernathey, N Tarshish
 *  **Impacts of climate change on Asia: A review of the Asia chapters in IPCC WG II assessment reports**  
-   *Climate Change Research*, in Chinese, to be submitted, 2019
+   *Climate Change Research*, in Chinese, to be submitted, 2019  
    C Zhang, Y Luo
 *  **Identifying Lagrangian coherent vortices in a mesoscale ocean model**  
    *Ocean Modelling*, 130, 15-28, 2018  
