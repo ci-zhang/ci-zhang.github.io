@@ -17,6 +17,9 @@ layout: space
 *  **Visiting Student in Research**, 2014.09 - 2015.02  
    Department of Geology and Geophysics, Yale University
 
+## Memberships
+*  **American Geophysical Union**
+
 ## Interests
 *  **Physical oceanography**  
       Mesoscale and submesoscale ocean dynamics
