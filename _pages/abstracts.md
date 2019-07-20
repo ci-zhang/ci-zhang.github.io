@@ -7,8 +7,8 @@ layout: space
 
 ### 2019
 
-* **Caspian sea level rises**
-  *AGU Fall Meeting*, San Francisco, CA, United States, [Web][w4]
+* **Caspian sea level rises**  
+  *AGU Fall Meeting*, San Francisco, CA, United States, [Web][w4]  
   C Zhang, Y Luo
 
   [w4]: https://www2.agu.org/fall-meeting
