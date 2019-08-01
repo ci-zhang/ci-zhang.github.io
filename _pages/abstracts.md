@@ -8,13 +8,13 @@ layout: space
 ### 2019
 
 * **Caspian Sea level fluctuations under varying climate change scenarios**  
-  *AGU Fall Meeting*, San Francisco, CA, United States, [Web][w4]  
+  *AGU Fall Meeting*, submitted, San Francisco, CA, United States, [Web][w4]  
   C Zhang, Y Yao, K Yang, Y Lin, Y Luo
 
   [w4]: https://www2.agu.org/fall-meeting
 
 *  **Regional climate modelling of the Central Asia: Consistencies and uncertainties of the driving GCM's bias correction**  
-   *ICRC-CORDEX*, Poster, Beijing, China, [Web][w3]  
+   *ICRC-CORDEX*, poster presentation, Beijing, China, [Web][w3]  
    C Zhang, Y Yao, Y Luo
 
    [w3]: http://icrc-cordex2019.cordex.org
