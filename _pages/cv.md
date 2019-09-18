@@ -5,6 +5,8 @@ layout: space
 ---
 # Curriculum vitae
 
+[Download the PDF Version](https://github.com/geosciz)
+
 ## Education
 *  **M.A. Climate and Society**, Columbia University, New York, 2016
 *  **B.S. Geology**, China University of Geosciences, Wuhan, 2015
