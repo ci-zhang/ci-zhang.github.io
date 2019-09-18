@@ -5,7 +5,5 @@ main:
     url: /abstracts/
   - title: "Travels"
     url: /travels/
-  - title: "Blogs"
-    url: /blogs/
   - title: "CV"
     url: /cv/
