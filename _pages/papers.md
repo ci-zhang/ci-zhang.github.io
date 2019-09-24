@@ -10,7 +10,7 @@ layout: space
 ### 2019
 
 *  **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
-   *Journal of Advances in Modeling Earth System*, to be submitted  
+   *Journal of Advances in Modeling Earth Systems*, to be submitted  
    C Zhang, R Abernathey, N Tarshish
 
 ### 2018
