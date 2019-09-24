@@ -22,14 +22,6 @@ layout: space
 ## Memberships
 *  **American Geophysical Union**
 
-## Interests
-*  **Physical oceanography**  
-      Mesoscale and submesoscale ocean dynamics
-*  **Southern Ocean**  
-      Antarctic ocean-cryosphere interactions
-*  **Climate change**  
-      Regional climate modeling of the Central Asia
-
 ## Skills
 *  **Numerical models**  
    MITgcm, WRF
@@ -40,7 +32,7 @@ layout: space
 
 ## Publications
 *  **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
-   *Journal of Advances in Modeling Earth System*, to be submitted, 2019  
+   *Journal of Advances in Modeling Earth Systems*, to be submitted, 2019  
    C Zhang, R Abernathey, N Tarshish
 *  **Identifying Lagrangian coherent vortices in a mesoscale ocean model**  
    *Ocean Modelling*, 130, 15-28, 2018  
