@@ -5,7 +5,7 @@ layout: space
 ---
 # Curriculum vitae
 
-[Download the PDF Version](https://github.com/ci-zhang/ci-zhang.github.io/tree/master/files/cv.pdf)
+[Download the PDF Version](https://github.com/ci-zhang/ci-zhang.github.io/files/cv.pdf)
 
 ## Education
 *  **M.A. Climate and Society**, Columbia University, New York, 2016
