@@ -8,7 +8,7 @@ layout: space
 ### 2019
 
 * **Caspian Sea level fluctuations under varying climate change scenarios**  
-  *AGU Fall Meeting*, submitted, San Francisco, CA, United States, [Web][w4]  
+  *AGU Fall Meeting*, Poster, San Francisco, CA, United States, [Web][w4]  
   C Zhang, Y Yao, K Yang, Y Lin, Y Luo
 
   [w4]: https://www2.agu.org/fall-meeting
