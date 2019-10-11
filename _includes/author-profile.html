@@ -45,13 +45,6 @@
                     </a>
                 </li>
             {% endif %}
-            {% if author.google_scholar %}
-                <li>
-                    <a href="https://scholar.google.com/citations?user={{ author.google_scholar }}" itemprop="sameAs">
-                        <i class="ai ai-google-scholar-square fa-lg ai-fw"></i> Google Scholar
-                    </a>
-                </li>
-            {% endif %}
             {% if author.orcid %}
                 <li>
                     <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
