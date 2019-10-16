@@ -8,27 +8,19 @@ layout: space
 ### 2019
 
 * **Caspian Sea level fluctuations under varying climate change scenarios**  
-  *AGU Fall Meeting*, Poster, San Francisco, CA, United States, [Web][w4]  
+  *AGU Fall Meeting*, Poster, San Francisco, California  
   C Zhang, Y Yao, K Yang, Y Lin, Y Luo
 
-  [w4]: https://www2.agu.org/fall-meeting
-
 * **Regional climate modelling of the Central Asia: Consistencies and uncertainties of the driving GCM's bias correction**  
-  *ICRC-CORDEX*, Poster, Beijing, China, [Web][w3]  
+  *ICRC-CORDEX*, Poster, Beijing, China
   C Zhang, Y Yao, Y Luo
-
-  [w3]: http://icrc-cordex2019.cordex.org
 
 ### 2018
 
 * **Global census of coherent Lagrangian vortices in a mesoscale-permitting ocean model**  
-  *Ocean Sciences Meeting*, Poster, Portland, OR, United States, [Web][w2]  
+  *Ocean Sciences Meeting*, Poster, Portland, Oregon
   NE Tarshish, R Abernathey, C Dufour, I Frenger, SM Griffies, C Zhang
 
-  [w2]: https://agu.confex.com/agu/os18/preliminaryview.cgi/Paper321716.html
-
 * **A global atlas of coherent Lagrangian vortices from satellite altimetry**  
-  *Ocean Sciences Meeting*, Poster, Portland, OR, United States, [Web][w1]  
+  *Ocean Sciences Meeting*, Poster, Portland, Oregon
   RP Abernathey, C Zhang, NE Tarshish
-
-  [w1]: https://agu.confex.com/agu/os18/preliminaryview.cgi/Paper320231.html
