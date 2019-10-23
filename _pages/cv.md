@@ -5,7 +5,7 @@ layout: space
 ---
 # Curriculum vitae
 
-[Download the PDF Version](https://ci-zhang.github.io/files/cv.pdf)
+[Download the PDF Version](files/cv.pdf)
 
 ## Education
 * **M.A. Climate and Society**, Columbia University, New York, 2016
@@ -26,7 +26,7 @@ layout: space
 * **Numerical models**  
   MITgcm, WRF
 * **Data analytics**  
-  Python, NCL, MATLAB, MongoDB
+  Python, ArcGIS, MongoDB
 * **Graphic design**  
   Illustrator, CorelDRAW
 
