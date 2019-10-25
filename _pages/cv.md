@@ -26,9 +26,9 @@ layout: space
 * **Numerical models**  
   MITgcm, WRF
 * **Data analytics**  
-  Python, ArcGIS, MATLAB, MongoDB
+  Python, Julia, ArcGIS, MongoDB
 * **Graphic design**  
-  Illustrator, CorelDRAW
+  Illustrator, Photoshop
 
 ## Publications
 * **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
