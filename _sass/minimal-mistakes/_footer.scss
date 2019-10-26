@@ -3,14 +3,14 @@
    ========================================================================== */
 
 .page__footer {
-  /*@include clearfix;
+  @include clearfix;
   float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  /*position: absolute;
+  position: absolute;
   bottom: 0;
   height: auto;
   /* sticky footer fix end */
@@ -40,7 +40,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 
@@ -70,7 +70,7 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
-    text-transform: none;
+    text-transform: uppercase;
   }
 
   li + li:before {

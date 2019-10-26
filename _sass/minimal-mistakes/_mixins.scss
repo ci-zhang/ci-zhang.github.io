@@ -4,9 +4,10 @@
 
 %tab-focus {
   /* Default*/
-  outline: none;
+  outline: thin dotted $focus-color;
   /* Webkit*/
-  outline: none;
+  outline: 5px auto $focus-color;
+  outline-offset: -2px;
 }
 
 /*
