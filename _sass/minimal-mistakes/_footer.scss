@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .page__footer {
-  @include clearfix;
+  /*@include clearfix;*/
   float: left;
   margin-left: 0;
   margin-right: 0;
@@ -21,7 +21,6 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-  z-index: -1 !important;
 
   footer {
     @include clearfix;
