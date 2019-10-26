@@ -29,8 +29,7 @@ layout: space
                     center: [0, 180],
                     zoom: 0.3,
                     fullscreenControl: {
-                        psudoFullscreen: false,
-                        zIndex = 99999
+                        psudoFullscreen: false
                     }
                 });
                 map.addLayer(tileLayer);
