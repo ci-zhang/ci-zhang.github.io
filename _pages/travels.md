@@ -27,7 +27,10 @@ layout: space
                 });
                 var map = L.map("map", {
                     center: [0, 180],
-                    zoom: 0.3
+                    zoom: 0.3,
+                    fullscreenControl: {
+                        psudoFullscreen: false
+                    }
                 });
                 map.addLayer(tileLayer);
                 var markers = L.markerClusterGroup({
