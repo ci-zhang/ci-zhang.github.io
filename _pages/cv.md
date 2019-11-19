@@ -26,7 +26,7 @@ layout: space
 * **Numerical models**  
   MITgcm, WRF
 * **Data analytics**  
-  Python, Julia, ArcGIS, MongoDB
+  Python
 * **Graphic design**  
   Illustrator, Photoshop
 
