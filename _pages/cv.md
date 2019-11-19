@@ -25,8 +25,8 @@ layout: space
 ## Skills
 * **Numerical models**  
   MITgcm, WRF
-* **Data analytics**  
-  Python
+* **Programming languages**  
+  Python, JavaScript, MATLAB, Julia
 * **Graphic design**  
   Illustrator, Photoshop
 
