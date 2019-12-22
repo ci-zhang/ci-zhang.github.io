@@ -8,8 +8,8 @@ layout: space
 [Download the PDF Version](https://ci-zhang.github.io/files/cv.pdf)
 
 ## Education
-* **M.A. Climate and Society**, Columbia University, New York, 2016
-* **B.S. Geology**, China University of Geosciences, Wuhan, 2015
+* **MA**, **Climate and Society**, Columbia University, New York, 2016
+* **BS**, **Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
 * **Research Assistant**, 2018.03 - Present  
