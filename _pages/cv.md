@@ -5,8 +5,6 @@ layout: space
 ---
 # Curriculum vitae
 
-[Download the PDF Version](https://ci-zhang.github.io/files/cv.pdf)
-
 ## Education
 * **MA**, **Climate and Society**, Columbia University, New York, 2016
 * **BS**, **Geology**, China University of Geosciences, Wuhan, 2015
