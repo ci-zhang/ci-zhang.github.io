@@ -10,7 +10,7 @@ layout: space
 * **BS**, **Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
-* **Research Assistant**, 2018.03 - Present  
+* **Research Assistant**, 2018.03 -  
   Department of Earth System Science, Tsinghua University
 * **Research Intern**, 2015.10 - 2017.06  
   Lamont-Doherty Earth Observatory, Columbia University
@@ -18,15 +18,9 @@ layout: space
   Department of Geology and Geophysics, Yale University
 
 ## Memberships
-* **American Geophysical Union**
+* **American Meteorological Society**, 2020 -
+* **American Geophysical Union**, 2019 -
 
-## Skills
-* **Numerical models**  
-  MITgcm, WRF
-* **Programming languages**  
-  Python, JavaScript, MATLAB, Julia
-* **Graphic design**  
-  Illustrator, Photoshop
 
 ## Publications
 * **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  

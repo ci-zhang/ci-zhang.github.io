@@ -8,7 +8,7 @@ My life story starts in [Shijiazhuang][1], a small yet comfortable city in the n
 
 In the fall of 2011, I attended [China University of Geosciences][2] in Wuhan for my undergraduate studies and got my bachelor degree in Geology four years later. After that, I moved to New York City to complete a graduate program in Climate and Society at [Columbia Univeristy][3] and was granted the master degree in October, 2016.
 
-I at present live in Beijing and work in the [Department of Earth System Science][4] of [Tsinghua University][5]. Previously, I did physical oceanography research with Professor [Ryan Abernathey][6] at [Lamont-Doherty Earth Observatory][6].
+I at present live in Beijing and work in the [Department of Earth System Science][4] of [Tsinghua University][5]. Previously, I did physical oceanography research with Professor [Ryan Abernathey][6] at [Lamont-Doherty Earth Observatory][7].
 
 [1]: https://en.wikipedia.org/wiki/Shijiazhuang
 [2]: http://www.cug.edu.cn
