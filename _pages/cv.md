@@ -10,17 +10,18 @@ layout: space
 * **BS**, **Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
-* **Research Assistant**, 2018.03 -  
+* **Research Assistant**, 2018 -  
   Department of Earth System Science, Tsinghua University
-* **Research Intern**, 2015.10 - 2017.06  
+* **Research Intern**, 2015 - 2017  
   Lamont-Doherty Earth Observatory, Columbia University
-* **Visiting Student in Research**, 2014.09 - 2015.02  
+* **Visiting Student in Research**, 2014 - 2015  
   Department of Geology and Geophysics, Yale University
 
 ## Memberships
-* **American Meteorological Society**, 2020 -
-* **American Geophysical Union**, 2019 -
-
+* **American Meteorological Society**, 2020 -  
+  Member
+* **American Geophysical Union**, 2019 -  
+  Regular Member
 
 ## Publications
 * **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
