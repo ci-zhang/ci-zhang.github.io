@@ -19,9 +19,7 @@ layout: space
 
 ## Memberships
 * **American Meteorological Society**, 2020 -  
-  Member
 * **American Geophysical Union**, 2019 -  
-  Regular Member
 
 ## Publications
 * **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
