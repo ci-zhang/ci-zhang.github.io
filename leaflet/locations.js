@@ -13,7 +13,7 @@ var addressPoints = [
     [      'Langfang, China',    39.5380511,      116.6815633],
     [      'Shanghai, China',    31.204451,       121.480977],
     [      'Shaoxing, China',    30.0301920,      120.5794335],
-    [  'Shijiazhuang, China',    38.04305852376891, 114.52877998352052],
+    [  'Shijiazhuang, China',    38.04281454486394, 114.52881753444673],
     [      'Shouyang, China',    37.8953292,      113.1742453],
     [   'Qinhuangdao, China',    39.9353811,      119.5983033],
     [      'Tangshan, China',    39.6304224,      118.1782181],
