@@ -46,8 +46,6 @@ layout: space
     		     }
     		     map.addLayer(markers);
     		     map.zoomIn();
-                 map.on('click', function(e) {
-                     alert(e.latlng.lat + ", " + e.latlng.lng)
                  });
     	     </script>
         </div>
