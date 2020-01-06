@@ -46,7 +46,6 @@ layout: space
     		     }
     		     map.addLayer(markers);
     		     map.zoomIn();
-                 });
     	     </script>
         </div>
     </body>
