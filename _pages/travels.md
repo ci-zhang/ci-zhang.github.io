@@ -43,9 +43,12 @@ layout: space
     			    var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
     			    marker.bindPopup(title);
     			    markers.addLayer(marker);
-    		     }
-    		     map.addLayer(markers);
-    		     map.zoomIn();
+    		    }
+    		    map.addLayer(markers);
+                map.zoomIn();
+                map.on('click', function(e) {
+                    alert(e.latlng.lat + ", " + e.latlng.lng)
+                });
     	     </script>
         </div>
     </body>
