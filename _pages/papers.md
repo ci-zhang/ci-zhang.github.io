@@ -7,7 +7,7 @@ layout: space
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=oam2ZBkAAAAJ&hl=en)
 
-### 2019
+### 2020
 
 * **Detection of coherent vortices in the world ocean: Model configuration and structure recognition**  
   *Journal of Advances in Modeling Earth Systems*, to be submitted  
