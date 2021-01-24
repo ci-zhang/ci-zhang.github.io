@@ -13,7 +13,7 @@ layout: space
     </head>
     <body>
         <br>
-        <div id="map"></div>
+        <div id="map">
             <script>
                 mapboxgl.accessToken = "pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ"
                 var map = new mapboxgl.Map({
@@ -24,5 +24,6 @@ layout: space
                 });
                 map.addControl(new mapboxgl.FullscreenControl());
             </script>
+        </div>
     </body>
 </html>
