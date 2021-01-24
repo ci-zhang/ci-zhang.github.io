@@ -21,7 +21,7 @@ layout: space
                 center: [-74.5, 40],
                 zoom: 0.3
             });
-            map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
+            map.addControl(new mapboxgl.FullscreenControl());
         </script>
     </body>
 </html>
