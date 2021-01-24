@@ -28,24 +28,8 @@ layout: space
                     container: "map",
                     style: "mapbox://styles/mapbox/streets-v11",
                     center: [0, 180],
-                    zoom: 0.3,
-                    fullscreenControl: {
-                        psudoFullscreen: false
-                    }
+                    zoom: 0.3
                 });
-                var markers = L.markerClusterGroup({
-                    showCoverageOnHover: false,
-                    maxClusterRadius: 80
-                });
-    		    for (var i = 0; i < addressPoints.length; i++) {
-    			    var a = addressPoints[i];
-    			    var title = a[0];
-    			    var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
-    			    marker.bindPopup(title);
-    			    markers.addLayer(marker);
-    		    }
-    		    map.addLayer(markers);
-                map.zoomIn();
     	     </script>
         </div>
     </body>
