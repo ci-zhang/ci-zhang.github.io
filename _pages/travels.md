@@ -22,6 +22,5 @@ layout: space
                 zoom: 9
             });
         </script>
-        </div>
     </body>
 </html>
