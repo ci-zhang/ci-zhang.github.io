@@ -19,7 +19,7 @@ layout: space
                 var map = new mapboxgl.Map({
                     container: "map",
                     style: "mapbox://styles/mapbox/streets-v11",
-                    center: [-74.5, 40],
+                    center: [0, 180],
                     zoom: 0.3
                 });
                 map.addControl(new mapboxgl.FullscreenControl());
