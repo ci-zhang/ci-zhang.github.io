@@ -15,7 +15,7 @@ layout: space
         <link rel="stylesheet" href="/leaflet/map.css"/>
         <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>    
+        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
         <script src="/leaflet/fullscreen/Leaflet.fullscreen.min.js"></script>
         <script src="/leaflet/locations.js"></script>
     </head>
@@ -23,18 +23,16 @@ layout: space
         <br>
         <div id="map">
             <script>
-                var tileLayer = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-                    id: "mapbox.streets",
-                    accessToken: "pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ"
-                });
-                var map = L.map("map", {
+                mapboxgl.accessToken = "pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ";
+                var map = new mapboxgl.Map({
+                    container: "map",
+                    style: "mapbox://styles/mapbox/streets-v11",
                     center: [0, 180],
                     zoom: 0.3,
                     fullscreenControl: {
                         psudoFullscreen: false
                     }
                 });
-                map.addLayer(tileLayer);
                 var markers = L.markerClusterGroup({
                     showCoverageOnHover: false,
                     maxClusterRadius: 80
