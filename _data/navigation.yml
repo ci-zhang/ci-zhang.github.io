@@ -1,9 +1,3 @@
 main:
-  - title: "Papers"
-    url: /papers/
-  - title: "Abstracts"
-    url: /abstracts/
   - title: "Travels"
     url: /travels/
-  - title: "CV"
-    url: /cv/
