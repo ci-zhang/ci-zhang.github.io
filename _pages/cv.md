@@ -10,7 +10,7 @@ layout: space
 * **BS**, **Geology**, China University of Geosciences, Wuhan, 2015
 
 ## Appointments
-* **Research Assistant**, 2018 -  
+* **Research Assistant**, 2018 - 2020
   Department of Earth System Science, Tsinghua University
 * **Research Intern**, 2015 - 2017  
   Lamont-Doherty Earth Observatory, Columbia University

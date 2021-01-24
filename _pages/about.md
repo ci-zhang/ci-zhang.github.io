@@ -10,8 +10,8 @@ In the fall of 2011, I attended [China University of Geosciences][2] in Wuhan fo
 
 I previouly did physical oceanography research with Professor [Ryan Abernathey][4] at [Lamont-Doherty Earth Observatory][5].
 
-[1]: https://en.wikipedia.org/wiki/Shijiazhuang/
-[2]: http://www.cug.edu.cn/
-[3]: https://www.columbia.edu/
-[4]: https://ocean-transport.github.io/
-[5]: https://www.ldeo.columbia.edu/
+[1]: https://en.wikipedia.org/wiki/Shijiazhuang
+[2]: http://www.cug.edu.cn
+[3]: https://www.columbia.edu
+[4]: https://ocean-transport.github.io
+[5]: https://www.ldeo.columbia.edu
