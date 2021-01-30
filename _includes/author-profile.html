@@ -52,6 +52,20 @@
                     </a>
                 </li>
             {% endif %}
+            {% if author.github %}
+                <li>
+                    <a href="https://github.com/{{ author.orcid }}" itemprop="sameAs">
+                        <i class="ai ai-github-square fa-lg ai-fw"></i> GitHub
+                    </a>
+                </li>
+            {% endif %}
+            {% if author.twitter %}
+                <li>
+                    <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+                        <i class="ai ai-twitter-square fa-lg ai-fw"></i> Twitter
+                    </a>
+                </li>
+            {% endif %}
         </ul>
     </div>
 </div>
