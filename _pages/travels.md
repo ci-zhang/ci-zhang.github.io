@@ -12,7 +12,7 @@ layout: space
     </head>
     <body>
         <br>
-        <div id="map" style="width: 100%; height: 480px;"></div>
+        <div id="map" style="width: 100%; min-height: 480px;"></div>
         <script>
             mapboxgl.accessToken = 'pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ';
             var map = new mapboxgl.Map({
