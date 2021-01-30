@@ -21,6 +21,7 @@ layout: space
                 center: [-74.5, 40], // starting position [lng, lat]
                 zoom: 0 // starting zoom
             });
+            document.addEventListener('webkitfullscreenchange', () => setTimeout(() => map.resize(), 0))
             map.addControl(new mapboxgl.FullscreenControl());
         </script>
     </body>
