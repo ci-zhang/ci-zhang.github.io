@@ -14,16 +14,16 @@ layout: space
     <body>
         <br>
         <div id="map">
-            <script>
-                mapboxgl.accessToken = "pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ"
-                var map = new mapboxgl.Map({
-                    container: "map",
-                    style: "mapbox://styles/mapbox/streets-v11",
-                    center: [0, 180],
-                    zoom: 0.3
-                });
-                map.addControl(new mapboxgl.FullscreenControl());
-            </script>
         </div>
+        <script>
+            mapboxgl.accessToken = "pk.eyJ1IjoiemhhbmdjaSIsImEiOiJja2themJsZTcxOTRzMnZsbjZxNmIxOTF1In0.xY5kzc2fZFfaURdJNvUEsQ"
+            var map = new mapboxgl.Map({
+                container: "map",
+                style: "mapbox://styles/mapbox/streets-v11",
+                center: [0, 180],
+                zoom: 0.3
+            });
+            map.addControl(new mapboxgl.FullscreenControl());
+        </script>
     </body>
 </html>
