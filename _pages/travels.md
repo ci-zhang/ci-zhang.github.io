@@ -18,8 +18,8 @@ layout: space
             var map = new mapboxgl.Map({
                 container: "map",
                 style: "mapbox://styles/mapbox/streets-v11",
-                center: [0, 0],
-                zoom: 0.3
+                center: [-74.5, 40],
+                zoom: 9
         </script>
     </body>
 </html>
