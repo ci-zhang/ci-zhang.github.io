@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/ci-zhang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
-  email            : "zhangci@tsinghua.edu.cn"
+  email            : "zhangci@yahoo.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
