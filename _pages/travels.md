@@ -7,9 +7,10 @@ layout: space
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
-        <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css"/>
-        <link rel="stylesheet" href="/mapbox/map.css"/>
+        <link href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css" rel="stylesheet"/>
+        <link href="/mapbox/map.css" rel="stylesheet"/>
     </head>
     <body>
         <br>
